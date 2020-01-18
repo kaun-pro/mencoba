@@ -1,0 +1,3 @@
+ALgoritma yang harus dipelajari
+- A*
+- Hill Climbing
